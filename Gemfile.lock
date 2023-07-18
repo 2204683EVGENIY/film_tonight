@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
+    nokogiri (1.14.2-x86_64-linux)
+      racc (~> 1.4)
+    public_suffix (5.0.1)
+    racc (1.6.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  addressable
+  nokogiri
+
+BUNDLED WITH
+   2.4.8
